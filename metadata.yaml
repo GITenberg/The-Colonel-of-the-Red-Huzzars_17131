@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5842'
     url: http://www.gutenberg.org/2009/agents/5842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17131#The-Colonel-of-the-Red-Huzzars
 gutenberg_issued: '2005-11-22'
 gutenberg_type: Text
 identifiers:
